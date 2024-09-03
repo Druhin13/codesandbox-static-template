@@ -1,0 +1,24 @@
+{
+    "name": "sandbox",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.html",
+    "scripts": {
+        "start": "serve",
+        "build": "echo This is a static template, there is no bundler or bundling involved!"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Druhin13/codesandbox-static-template.git"
+    },
+    "keywords": [],
+    "author": "Druhin Tarafder",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Druhin13/codesandbox-static-template/issues"
+    },
+    "homepage": "https://github.com/Druhin13/codesandbox-static-template#readme",
+    "devDependencies": {
+        "serve": "^11.2.0"
+    }
+}
